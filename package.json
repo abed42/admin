@@ -7,11 +7,11 @@
   "resolutions": {
     "devcert": "1.2.1",
     "postcss": "^8.4.5",
-    "@types/react": "^18.0.21"
+    "@types/react": "^18.0.21",
+    "medusa-react": "portal:/Users/franepolic/Projects/medusa/medusa/packages/medusa-react"
   },
   "dependencies": {
     "@hookform/error-message": "^2.0.0",
-    "@medusajs/medusa": "^1.7.5",
     "@radix-ui/react-accordion": "^1.0.1",
     "@radix-ui/react-avatar": "^1.0.1",
     "@radix-ui/react-collapsible": "^1.0.1",
@@ -117,5 +117,6 @@
   },
   "bugs": {
     "url": "https://github.com/medusajs/admin/issues"
-  }
+  },
+  "packageManager": "yarn@3.4.1"
 }
